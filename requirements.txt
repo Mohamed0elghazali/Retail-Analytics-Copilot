@@ -1,0 +1,6 @@
+langgraph==1.0.4
+langchain==1.1.0
+langchain_community==0.4.1
+langchain-ollama==1.0.0
+scikit-learn==1.7.2
+dspy-ai==3.0.4
