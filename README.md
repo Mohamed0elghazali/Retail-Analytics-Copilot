@@ -23,7 +23,7 @@ Retail Analytics Copilot is a hybrid retrieval-augmented generation (RAG) system
   Using DSPy to optimize prompts.
 
 
-# RETAIL ANALYTICS COPILOT
+## Project Structure
 
 ```
 RETAIL_ANALYTICS_COPILOT/
